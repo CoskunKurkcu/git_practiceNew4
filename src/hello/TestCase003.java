@@ -8,6 +8,8 @@ public class TestCase003 {
     // when we merge, conflict will happen
 
     // final result
+    
+    // this is the changes from GitHub.com
 
     // this is the change from IntelliJ
 
